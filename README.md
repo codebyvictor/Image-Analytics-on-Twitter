@@ -8,5 +8,5 @@ Firstly, we scraped Go Pro's twitter account for all the posts with images inclu
 <br>
 
 <p align="center">
-  <img width="830" height="350" src="https://github.com/codebyvictor/Image-Analytics-on-Twitter/blob/ddbe63b263dcb93726aff882d1cc22e22d3b97a4/gopro.png">
+  <img width="830" height="370" src="https://github.com/codebyvictor/Image-Analytics-on-Twitter/blob/ddbe63b263dcb93726aff882d1cc22e22d3b97a4/gopro.png">
 </p>
